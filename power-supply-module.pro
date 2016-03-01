@@ -1,4 +1,4 @@
-update=2016 February 23, Tuesday 19:50:28
+update=2016 March 01, Tuesday 15:22:37
 version=1
 last_client=kicad
 [pcbnew]
@@ -68,3 +68,4 @@ LibName36=kicad-lib/components/_power
 LibName37=kicad-lib/components/_sensors
 LibName38=kicad-lib/components/_stm32
 LibName39=kicad-lib/components/_wireless
+LibName40=kicad-lib/components/_discrete
